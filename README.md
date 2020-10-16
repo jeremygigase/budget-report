@@ -1,9 +1,9 @@
-#Budget Report
+# Budget Report
 
 Check your income and expenses with this easy to use budget tracker!
 [Click Here!](https://jeremygigase.github.io/budget-report/)
 
-##Some famous people quotes totally related to the app:
+## Some famous people quotes totally related to the app:
 
 Kanye West said:
 
